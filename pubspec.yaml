@@ -1,0 +1,18 @@
+name: marquee_view
+description: A simple and easy-to-use marquee plugin, supports from any widget to marquee.
+version: 1.0.0
+homepage: https://github.com/xteeqg/marqueeView
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
